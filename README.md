@@ -10,6 +10,9 @@ It demonstrates actuarial concepts such as Value-at-Risk (VaR) and stop-loss rei
 - Modeled stop-loss reinsurance (80k attachment, 100k limit)
 - Implemented in **Python** (NumPy, pandas, matplotlib) and **R**
 
+## Example Plots
+![alt text](image.png)
+
 ## Files
 - `/insurance_claims_simulation.py` – Python script
 - `/insurance_claims_simulation.R` – R script
