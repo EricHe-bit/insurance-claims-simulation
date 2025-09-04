@@ -1,0 +1,10 @@
+"Severity","Type","Mean","Variance","VaR_95"
+"Exponential","Gross",50034.7666890847,501073088.714891,NA
+"Exponential","Net (Stop-Loss 80k xs 100k)",48599.0211684622,375294754.670459,NA
+"Exponential","Ceded",1435.74552062247,35588596.540713,NA
+"Normal (truncated ≥0)","Gross",50037.049933551,290467332.409503,NA
+"Normal (truncated ≥0)","Net (Stop-Loss 80k xs 100k)",49607.9394744921,257576010.622413,NA
+"Normal (truncated ≥0)","Ceded",429.110459058869,6807698.02692314,NA
+"Lognormal","Gross",69907.0964482425,1099678197.93911,NA
+"Lognormal","Net (Stop-Loss 80k xs 100k)",61115.7973284634,386695243.113808,NA
+"Lognormal","Ceded",8791.29911977916,343422541.264815,NA
